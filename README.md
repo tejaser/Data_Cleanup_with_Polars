@@ -40,3 +40,27 @@ This repository demonstrates how to efficiently clean and preprocess data using 
 
 - Please refer to the Python notebook `data_cleanup.ipynb` for code reference
 - Supporting blog is written on Medium at this [link](https://medium.com/@Tp70227/effortless-data-cleaning-in-python-with-polars-a-step-by-step-guide-d4282c7a8b4b)
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+- Fork the repository.
+
+- Create a new branch:
+
+- git checkout -b feature/your-feature-name
+
+- Make your changes and commit them:
+
+`git commit -m "Add your feature description"`
+
+- Push to your branch:
+
+`git push origin feature/your-feature-name`
+
+- Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
