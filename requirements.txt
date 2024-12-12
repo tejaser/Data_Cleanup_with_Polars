@@ -2,3 +2,4 @@ polars[pandas]
 textblob
 nltk
 emoji
+inflect
